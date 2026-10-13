@@ -8,7 +8,7 @@ export const site = {
   github: "https://github.com/9335sus",
   linkedin: "https://www.linkedin.com/in/sushil-agrahari-b5175360/",
   resume: "/resume/Sushil_Agrahari_Resume.pdf", // put your PDF at public/resume/
-  profileImage: "", // e.g. "/profile.jpg" (place file in public/). Empty shows initials.
+  profileImage: "/profile.jpeg", // e.g. "/profile.jpg" (place file in public/). Empty shows initials.
 };
 
 export const internship = {
