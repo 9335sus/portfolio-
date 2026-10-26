@@ -24,7 +24,7 @@ export const projects = [
     shortDescription: "AI system that detects fire and smoke and reports incidents.",
     fullDescription:
       "PyroSense-AI detects fire and smoke using computer vision models, scores the risk, and supports alerting and incident reporting, with Grad-CAM visualizations to show what the model focused on.",
-    image: "",
+    image: "/profile1.png",
     technologies: ["Python", "YOLOv8", "EfficientNet", "Streamlit", "FastAPI"],
     category: "AI/ML",
     features: [
@@ -64,16 +64,16 @@ export const projects = [
   },
   {
     id: "project-003",
-    title: "Movie App: MERN Stack",
+    title: "CineVerse: MERN Stack",
     shortDescription: "Movie browsing app with authentication and search.",
     fullDescription:
       "A full-stack movie application built on the MERN stack with user authentication, movie search, dynamic content, and REST API integration.",
-    image: "",
+    image: "/profile2.png",
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js"],
     category: "Full Stack",
     features: ["Authentication", "Movie search", "Dynamic content", "REST API integration"],
-    githubUrl: "", // TODO: add repository URL
-    liveUrl: "",
+    githubUrl: "https://github.com/9335sus/CineVerse-AI", // TODO: add repository URL
+    liveUrl: "https://cine-verse-ai-pearl.vercel.app/",
     featured: false,
     status: "Completed",
     createdAt: "2025-06-01",
