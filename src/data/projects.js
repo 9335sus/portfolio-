@@ -40,28 +40,28 @@ export const projects = [
     status: "Completed",
     createdAt: "2026-03-01",
   },
-  {
-    id: "project-002",
-    title: "The PathSeeker: AI Robot",
-    shortDescription: "Autonomous robot with mapping, navigation and a monitoring dashboard.",
-    fullDescription:
-      "The PathSeeker is a robot built on Jetson Nano that maps its surroundings with LiDAR and SLAM, localizes itself, avoids obstacles, and is monitored through a React dashboard.",
-    image: "",
-    technologies: ["Python", "ROS", "LiDAR", "SLAM", "Jetson Nano", "React"],
-    category: "Robotics",
-    features: [
-      "Mapping",
-      "Localization",
-      "Obstacle avoidance",
-      "AI-assisted navigation",
-      "Robot monitoring dashboard",
-    ],
-    githubUrl: "", // TODO: add repository URL
-    liveUrl: "",
-    featured: true,
-    status: "Completed",
-    createdAt: "2026-01-15",
-  },
+  // {
+  //   id: "project-002",
+  //   title: "The PathSeeker: AI Robot",
+  //   shortDescription: "Autonomous robot with mapping, navigation and a monitoring dashboard.",
+  //   fullDescription:
+  //     "The PathSeeker is a robot built on Jetson Nano that maps its surroundings with LiDAR and SLAM, localizes itself, avoids obstacles, and is monitored through a React dashboard.",
+  //   image: "",
+  //   technologies: ["Python", "ROS", "LiDAR", "SLAM", "Jetson Nano", "React"],
+  //   category: "Robotics",
+  //   features: [
+  //     "Mapping",
+  //     "Localization",
+  //     "Obstacle avoidance",
+  //     "AI-assisted navigation",
+  //     "Robot monitoring dashboard",
+  //   ],
+  //   githubUrl: "", // TODO: add repository URL
+  //   liveUrl: "",
+  //   featured: true,
+  //   status: "Completed",
+  //   createdAt: "2026-01-15",
+  // },
   {
     id: "project-003",
     title: "CineVerse: MERN Stack",
